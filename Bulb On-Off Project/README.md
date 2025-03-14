@@ -11,6 +11,10 @@ The project uses JavaScript to toggle the bulb's state on and off.
 ## Requirements
 * A modern web browser.
 
+## Installation
+1. Clone the repository.
+2. Open the 'index.html' file in a web browser
+
 ## Usage
 * Click the button to turn the bulb on and off.
 
